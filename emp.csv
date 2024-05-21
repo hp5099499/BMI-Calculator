@@ -1,0 +1,19 @@
+Company,Job,Degree,Salary
+Infosys,sales,Graduate ,<50000
+Infosys,sales,Post Grad,>50000
+Infosys,Developer,Graduate ,<50000
+Infosys,Developer,Post Grad,>50000
+Infosys,Manager,Graduate ,<50000
+Infosys,Manager,Post Grad,>50000
+Wipro,sales,Graduate ,<50000
+Wipro,sales,Post Grad,>50000
+Wipro,Developer,Graduate ,<50000
+Wipro,Developer,Post Grad,>50000
+Wipro,Manager,Graduate ,<50000
+Wipro,Manager,Post Grad,>50000
+TCS,sales,Graduate ,<50000
+TCS,sales,Post Grad,>50000
+TCS,Developer,Graduate ,<50000
+TCS,Developer,Post Grad,>50000
+TCS,Manager,Graduate ,<50000
+TCS,Manager,Post Grad,>50000
